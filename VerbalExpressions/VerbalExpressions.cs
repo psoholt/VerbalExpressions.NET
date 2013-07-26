@@ -1,4 +1,7 @@
 ﻿/*!
+ * Deprecated. Go to: 
+ * https://github.com/VerbalExpressions/CSharpVerbalExpressions
+ *
  * VerbalExpressions .NET Library v0.1
  * https://github.com/psoholt/VerbalExpressions.net
  *
